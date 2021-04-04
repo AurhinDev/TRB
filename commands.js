@@ -195,7 +195,7 @@ module.exports = function() {
               inline: true,
             });
           };
-
+          
           embed.addFields(fields);
           if (patreon == 'Soldier') {
             embed.setThumbnail('https://tinyurl.com/ybpq6peh');
